@@ -15,9 +15,9 @@ Obviously this query will not 'plug-and-play' for agencies with differing data s
 
 Questions? Please reach out, 
 
-Matt Goodman, GIS Principal
-St. Louis County Sheriff's Office
-9-1-1 Communications Division
-2030 N Arlington Ave
-(218) 726-2938 (office)
-goodmanm@stlouiscountymn.gov
+-   Matt Goodman, GIS Principal
+-   St. Louis County Sheriff's Office
+-   9-1-1 Communications Division
+-   2030 N Arlington Ave
+-   (218) 726-2938 (office)
+-   goodmanm@stlouiscountymn.gov
